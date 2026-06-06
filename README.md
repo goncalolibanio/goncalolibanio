@@ -30,10 +30,6 @@ I am an **Artificial Intelligence and Data Science** undergraduate student at **
 
 ---
 
-### 📬 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/goncalo-libanio/))
-
 <!--
 **goncalolibanio/goncalolibanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
