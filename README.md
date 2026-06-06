@@ -25,8 +25,7 @@ I am an **Artificial Intelligence and Data Science** undergraduate student at **
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radial&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radial&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=O_TEU_USER_AQUI&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
