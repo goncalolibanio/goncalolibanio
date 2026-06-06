@@ -25,7 +25,7 @@ I am an **Artificial Intelligence and Data Science** undergraduate student at **
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=O_TEU_USER_AQUI&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goncalolibanio&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
