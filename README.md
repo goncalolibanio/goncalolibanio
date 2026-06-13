@@ -7,7 +7,7 @@ I am an **Artificial Intelligence and Data Science** undergraduate student at **
 ### 🚀 About Me
 
 * 🎓 **Education:** B.Sc. in AI and Data Science @ UBI
-* ⚽ **Passion:** Sports data analytics (scouting, performance tracking, statistics) and real-life problem-solving.
+* ⚽ **Passion:** Sports data analytics (scouting, performance tracking, statistics), real-life problem-solving and music.
 * 🧠 **Interests:** Machine Learning, Predictive Modeling, and Statistics.
 
 ---
